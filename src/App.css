@@ -84,6 +84,16 @@ li {
   position: relative;
 }
 
+.battery-indicator {
+  position: absolute;
+  top: 8px;
+  right: 8px;
+  width: 12px;
+  height: 12px;
+  background: #f0506e;
+  border-radius: 50%;
+}
+
 .area {
   height: 100%;
   display: flex;
